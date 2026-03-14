@@ -1,0 +1,11 @@
+anthropic
+langchain
+langgraph
+chromadb
+playwright
+pydantic
+fastapi
+uvicorn
+python-dotenv
+httpx
+duckduckgo-search

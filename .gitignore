@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.chroma/
+node_modules/
+dist/
+.vite/
+*.egg-info/
+.venv/
+venv/
